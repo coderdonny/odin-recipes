@@ -1,0 +1,37 @@
+ol, ul {
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 0 20%;
+    padding-bottom: 5rem;
+}
+
+img {
+    width: 720px;
+    height: auto;
+    border-radius: 20px;
+}
+
+h2 {
+    font-family: cursive;
+    color: lightblue;
+}
+
+#recipes {
+    width: 300px;
+    height: auto;
+}
+
+#home {
+    text-align: center;
+    padding-bottom: 20px;
+    color: red;
+    font-weight: bolder;
+}
